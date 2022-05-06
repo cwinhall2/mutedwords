@@ -1,5 +1,5 @@
 # MUTEDWORDS
-A LIST OF WORDS RELATED TO WEB3 THAT I HAVE MUTED ON TWITTER. MAYBE IT HELPS YOU TOO!
+A list of words related to web3 that i have muted on twitter. maybe it helps you too!
 
 AIRDROP<br>
 ALL-IN<br>
