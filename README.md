@@ -1,4 +1,4 @@
-# MUTEDWORDS
+# web3 words to mute on Twitter
 A list of words related to web3 that i have muted on twitter. maybe it helps you too!
 
 AIRDROP<br>
